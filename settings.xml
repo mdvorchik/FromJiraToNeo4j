@@ -1,0 +1,11 @@
+<pluginRepository>
+    <id>atlassian-plugin-sdk</id>
+    <url>file://${env.ATLAS_HOME}/repository</url>
+    <releases>
+        <enabled>true</enabled>
+        <checksumPolicy>warn</checksumPolicy>
+    </releases>
+    <snapshots>
+        <enabled>false</enabled>
+    </snapshots>
+</pluginRepository>
