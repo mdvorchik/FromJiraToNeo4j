@@ -94,6 +94,18 @@
         </dependency>
 
         <dependency>
+            <groupId>com.atlassian.connect</groupId>
+            <artifactId>atlassian-connect-spring-boot-starter</artifactId>
+            <version>3.0.1</version>
+        </dependency>
+
+        <dependency>
+            <groupId>com.atlassian.connect</groupId>
+            <artifactId>atlassian-connect-spring-boot-jpa-starter</artifactId>
+            <version>3.0.1</version>
+        </dependency>
+
+        <dependency>
             <groupId>org.projectlombok</groupId>
             <artifactId>lombok</artifactId>
             <version>1.18.24</version>
